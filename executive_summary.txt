@@ -1,0 +1,11 @@
+Executive Summary: 
+    
+    A captivating story can inspire any child. Children's Book Company is pioneering new stories that tie relevant concepts and settings that resonate with younger generations all across the nation. Unfortunately a majority of Children's Book Company stories are placed in the "Children's Section" of most book and ecommerce stores. This leaves customers fishing through titles and uncertain of the kind of story they will be reading. 
+
+
+    Being able to identify the genre of Children's Book Company stories will enable precise marketing that will help reach newer audiences. Considering Children's Book Company is releasing a new series of funny ghost stories for the upcoming Halloween season, this would be a perfect opportunity to identify the weight of each genre. This will allow a more precise marketing of each story based on which genre is more prevalent. 
+    
+    Using the subreddits, r/Ghostories and r/funnystories, we will create a model that can interpret a post to which subreddit it belongs to. These subreddits will be a great way to determine a sample of public opinion on what constitutes a funny and ghost story without the costs of generating our own samples. We will refine our model by iterating our posts to only include the most impactful words and test multiple models to find the best performance. Because the data we extracted is fairly balanced we will determine our success based on the accuracy of our model compared to our baseline. We will also create a test model to determine which form of iteration performs best. Our test model's accuracy will then be our baseline for future models. After creating a reliable model we will run the new series of funny ghost stories to determine how to market the story. 
+    
+    We understand the importance and impact of children being introduced to great stories. We want to assist Children's Book Company in reaching out to our next generations by accurately marketing the genre of these stories.      
+    
